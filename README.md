@@ -8,7 +8,7 @@ This is an advanced to-do list application built with React Native and Expo. It'
 
 
 
-## ## Key Features
+## Key Features
 
 This application is packed with features that demonstrate a polished and professional user experience.
 
@@ -23,7 +23,7 @@ This application is packed with features that demonstrate a polished and profess
 * **📳 Haptic Feedback**: Enhances user interaction with subtle haptic feedback using `expo-haptics` when a new task is successfully added.
 * **⌨️ Polished UX**: The "Add Task" form includes thoughtful details like `KeyboardAvoidingView`, input validation, and confirmation alerts to prevent accidental data loss.
 
-## ## Technology Stack
+## Technology Stack
 
 * **Framework**: React Native & Expo
 * **Language**: TypeScript
@@ -33,7 +33,7 @@ This application is packed with features that demonstrate a polished and profess
 * **UI Libraries**: `expo-glass-effect`
 * **Deployment**: Vercel
 
-## ## How to Run Locally
+## How to Run Locally
 
 1.  **Clone the repository:**
     ```bash
